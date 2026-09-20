@@ -1,0 +1,7 @@
+numpy==2.2.6
+pandas==2.2.3
+scikit-learn==1.6.1
+catboost==1.2.8
+lightgbm==4.6.0
+scipy==1.17.1
+ipykernel==7.3.0
